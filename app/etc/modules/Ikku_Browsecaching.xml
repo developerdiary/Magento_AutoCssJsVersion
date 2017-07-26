@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ikku_Browsecaching>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ikku_Browsecaching>
+    </modules>
+</config>
